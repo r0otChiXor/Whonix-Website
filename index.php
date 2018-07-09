@@ -1,3 +1,7 @@
+<?php
+$protocol = $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https' ? 'https://' : 'http://';
+$host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -29,8 +33,8 @@
         <li><a href="/" class="cc-active">Home</a></li>
         <li><a href="/download">Download</a></li>
         <li><a href="/wiki/Documentation">Wiki</a></li>
-        <li><a href="https://forums.whonix.org/">Forum</a></li>
-        <li><a href="https://forums.whonix.org/c/news">News</a></li>
+        <li><a href="<?php print $protocol; ?>forums.<?php print $host; ?>/">Forum</a></li>
+        <li><a href="<?php print $protocol; ?>forums.<?php print $host; ?>/c/news">News</a></li>
       </ul>
     </nav>
   </div>
@@ -122,3 +126,4 @@
     </footer>
   </body>
 </html>
+
