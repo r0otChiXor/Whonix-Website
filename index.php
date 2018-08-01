@@ -1,5 +1,9 @@
 <?php
-$protocol = $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https' ? 'https://' : 'http://';
+if(isset($_SERVER['HTTP_X_FORWARDED_PROTO'])) {
+  $protocol = $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https' ? 'https://' : 'http://';
+} else {
+  $protocol = 'http://';
+}
 $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 ?>
 <!DOCTYPE html>
