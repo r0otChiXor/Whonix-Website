@@ -24,7 +24,7 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-  <strong>We need your help!</strong> Whonix requires payments to stay alive. <a href="/wiki/Payments">Do your part!</a>
+  <strong>We need your help!</strong> Whonix requires money to stay alive. <a href="/wiki/Payments">Do your part!</a>
 </div>
 
 <section class="hero">
