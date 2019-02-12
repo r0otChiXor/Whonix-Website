@@ -20,7 +20,7 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-  <strong>We need your help!</strong> Whonix requires payments to stay alive. <a href="/wiki/Payments">Do your part!</a>
+  <strong>We need your help!</strong> Whonix requires donations to stay alive. <a href="/wiki/Donate">Do your part!</a>
 </div>
 
 <section class="hero">
@@ -121,7 +121,7 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 
     <footer>
 		<div class="container">
-			<p><a> </a><a href="/wiki/Payments">Payments</a><a> </a></p>
+			<p><a> </a><a href="/wiki/Donate">Donate</a><a> </a></p>
 		</div>
     </footer>
   </body>
