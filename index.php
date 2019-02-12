@@ -42,7 +42,7 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 
 	<div class="container">
 		<h1 class="editable">Stay Anonymous</h1>
-		<h2 class="editable">with Whonix<p><a href="/download" class="button">Download Now</a></p></h2>
+		<h2 class="editable">with Whonix<p><a href="/download" class="button">Free Download Now</a></p></h2>
 	</div>
 </section>
 
