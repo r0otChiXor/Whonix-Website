@@ -1,5 +1,9 @@
 <?php
-$protocol = $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https' ? 'https://' : 'http://';
+if(isset($_SERVER['HTTP_X_FORWARDED_PROTO'])) {
+  $protocol = $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https' ? 'https://' : 'http://';
+} else {
+  $protocol = 'http://';
+}
 $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 ?>
 <!DOCTYPE html>
@@ -42,7 +46,7 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 
 	<div class="container">
 		<h1 class="editable">Stay Anonymous</h1>
-		<h2 class="editable">with Whonix<p><a href="/download" class="button">Free Download Now</a></p></h2>
+		<h2 class="editable">with Whonix<p><a href="/download" class="button">Download Now</a></p></h2>
 	</div>
 </section>
 
@@ -121,18 +125,7 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 
     <footer>
 		<div class="container">
-			<p>
-			<a href="https://www.whonix.org/wiki/Imprint">Imprint</a><a> </a>
-			<a href="https://www.whonix.org/wiki/Privacy_Policy">Privacy Policy</a><a> </a>
-			<a href="https://www.whonix.org/wiki/Cookie_Policy">Cookie Policy</a><a> </a>
-			<a href="https://www.whonix.org/wiki/Terms_of_Service">Terms of Service</a><a> </a>
-			<a href="https://www.whonix.org/wiki/DMCA">DMCA</a><a> </a>
-			<a href="https://www.whonix.org/wiki/E-Sign_Consent">E-Sign Consent</a><a> </a>
-			<a href="https://www.whonix.org/wiki/Priority_Support">Priority Support</a><a> </a>
-			<a href="https://www.whonix.org/wiki/Professional_Support">Professional Support</a><a> </a>
-			<a href="https://www.whonix.org/wiki/Donate">Donate</a><a> </a>
-			<a href="https://www.whonix.org/wiki/Investors">Investors</a>
-			</p>
+			<p><a> </a><a href="/wiki/Payments">Payments</a><a> </a></p>
 		</div>
     </footer>
   </body>
