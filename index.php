@@ -14,7 +14,7 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Whonix</title>
+    <title>Whonix &trade;</title>
     <link rel="shortcut icon" href="img/favicon.png">
 
     <!-- Bootstrap core CSS -->
@@ -24,13 +24,13 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-  <strong>We need your help!</strong> Whonix requires donations to stay alive. <a href="/wiki/Donate">Do your part!</a>
+  <strong>We need your help!</strong> Whonix &trade; requires donations to stay alive. <a href="/wiki/Donate">Do your part!</a>
 </div>
 
 <section class="hero">
 	<header>
   <div class="clearfix">
-    <h1><a href="/" class="cc-active"><img width="160" src="/img/Whonix_Logo.png" alt="Whonix"></a></h1>
+    <h1><a href="/" class="cc-active"><img width="160" src="/img/Whonix_Logo.png" alt="Whonix &trade;"></a></h1>
 
     <nav>
       <ul>
@@ -46,16 +46,16 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 
 	<div class="container">
 		<h1 class="editable">Stay Anonymous</h1>
-		<h2 class="editable">with Whonix<p><a href="/download" class="button">Download Now</a></p></h2>
+		<h2 class="editable">with Whonix &trade;<p><a href="/download" class="button">Download Now</a></p></h2>
 	</div>
 </section>
 
 <section>
 	<div class="container subheader">
-		<h2 class="editable">Whonix: A High Security Method of Surfing the Internet</h2>
-		<p style="color: #000000;" class="editable">Whonix is a desktop operating system designed for advanced security and privacy. Whonix mitigates the threat of common attack vectors while maintaining usability. Online anonymity is realized via fail-safe, automatic, and desktop-wide use of the Tor network. A heavily reconfigured Debian base is run inside multiple virtual machines, providing a substantial layer of protection from malware and IP address leaks. Commonly used applications are pre-installed and safely pre-configured for immediate use. The user is not jeopardized by installing additional applications or personalizing the desktop. Whonix is under active development and is the only operating system designed to be run inside a VM and paired with Tor.</p>
+		<h2 class="editable">Whonix &trade;: A High Security Method of Surfing the Internet</h2>
+		<p style="color: #000000;" class="editable">Whonix &trade; is a desktop operating system designed for advanced security and privacy. Whonix &trade; mitigates the threat of common attack vectors while maintaining usability. Online anonymity is realized via fail-safe, automatic, and desktop-wide use of the Tor network. A heavily reconfigured Debian base is run inside multiple virtual machines, providing a substantial layer of protection from malware and IP address leaks. Commonly used applications are pre-installed and safely pre-configured for immediate use. The user is not jeopardized by installing additional applications or personalizing the desktop. Whonix &trade; is under active development and is the only operating system designed to be run inside a VM and paired with Tor.</p>
 			<hr>
-		<p style="color: #000000;" class="editable">The official sponsor of Whonix is <a href="https://www.eyeonpass.com">EyeOnPASS.com</a> - an API solution for websites and applications that prevents credential stuffing attacks on their users’ accounts.</p>
+		<p style="color: #000000;" class="editable">The official sponsor of Whonix &trade; is <a href="https://www.eyeonpass.com">EyeOnPASS.com</a> - an API solution for websites and applications that prevents credential stuffing attacks on their users’ accounts.</p>
 	</div>
 </section>
 
@@ -74,14 +74,14 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 		<div>
 			<h3 class="editable">Compatibility</h3>
 			<img width="120" height="200" src="/img/Whonix_Combatibility.png" class="editable with-transparency" alt="Live website in no time at all">
-			<p style="color: #000000;">Whonix is available for all major operating systems. Most commonly used applications are compatible with the Whonix design.</p>
+			<p style="color: #000000;">Whonix &trade; is available for all major operating systems. Most commonly used applications are compatible with the Whonix &trade; design.</p>
 		</div>
 	</div>
 </section>
 
 <section class="bright-section">
 	<div class="container">
-		<h2 class="editable">Get Whonix Now</h2>
+		<h2 class="editable">Get Whonix &trade; Now</h2>
 
 		<div class="quad clearfix">
 			<div>
