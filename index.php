@@ -64,7 +64,7 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 		<div>
 			<h3 class="editable">Based on Tor</h3>
 			<img width="120" height="200" src="/img/Whonix_Tor.png" class="editable with-transparency" alt="Based on Tor">
-			<p style="color: #000000;">Whonix utilizes Tor's free software, which provides an open and distributed relay network to defend against network surveillance.</p>
+			<p style="color: #000000;">Whonix &trade; utilizes Tor's free software, which provides an open and distributed relay network to defend against network surveillance.</p>
 		</div>
 		<div>
 			<h3 class="editable">Isolation</h3>
