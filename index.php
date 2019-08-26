@@ -118,7 +118,7 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 
 	<section>
 		<div class="container subheader">
-			<h3>Share Whonix with your Friends:</h3>
+			<h3>Share Whonix &trade; with your Friends:</h3>
 			<p><a href="https://twitter.com/intent/tweet?url=https://www.whonix.org&text=&via=Whonix"><img src="/img/twitter.png" class="editable"></a><a> </a><a href="https://facebook.com/sharer.php?u=https://www.whonix.org"><img src="/img/facebook2.png" class="editable"></a><a> </a><a href="https://plus.google.com/share?url=https://www.whonix.org"><img src="/img/google-plus.png" class="editable"></a></p>
 		</div>
 	</section>
