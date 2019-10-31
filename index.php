@@ -55,7 +55,7 @@ $host = str_replace('www.', '', $_SERVER['HTTP_HOST']);
 		<h2 class="editable">Whonix &trade;: A High Security Method of Surfing the Internet</h2>
 		<p style="color: #000000;" class="editable">Whonix &trade; is a desktop operating system designed for advanced security and privacy. Whonix &trade; mitigates the threat of common attack vectors while maintaining usability. Online anonymity is realized via fail-safe, automatic, and desktop-wide use of the Tor network. A heavily reconfigured Debian base is run inside multiple virtual machines, providing a substantial layer of protection from malware and IP address leaks. Commonly used applications are pre-installed and safely pre-configured for immediate use. The user is not jeopardized by installing additional applications or personalizing the desktop. Whonix &trade; is under active development and is the only operating system designed to be run inside a VM and paired with Tor.</p>
 			<hr>
-		<p style="color: #000000;" class="editable">The official sponsor of Whonix &trade; is <a href="https://www.eyeonpass.com">EyeOnPASS.com</a> - an API solution for websites and applications that prevents credential stuffing attacks on their users’ accounts.</p>
+		<p style="color: #000000;" class="editable"><a href="https://www.whonix.org/wiki/Investors">Whonix &trade; Investors Information</a></p>
 	</div>
 </section>
 
