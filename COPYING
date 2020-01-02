@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 
-Files: TODO
+Files: home.html
 Copyright: 2019 - 2019 ENCRYPTED SUPPORT LP <adrelanos@riseup.net>
 License: GPL-3+-with-additional-terms-1
  This program is free software: you can redistribute it and/or modify
