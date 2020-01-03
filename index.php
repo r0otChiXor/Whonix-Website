@@ -111,17 +111,14 @@ See the file COPYING for copying conditions.
                 <img src="https://www.whonix.org/w/images/c/ca/Fpf.svg" alt="Freedom of the Press" />
             </a>
             <a class="press-blurb" href="https://github.com/freedomofpress/securedrop-workstation">
-               <a href="https://securedrop.org">SecureDrop</a>,
-               the whistleblower submission system.
-               It is used by
-               <a href="https://securedrop.org/directory/">many mass media organisations</a>
-               to securely accept documents from anonymous sources.
-               <br />
-               <br />
-               <a href="https://github.com/freedomofpress/securedrop-workstation">
-                ”SecureDrop Journalist Workstation environment for submission handling
-                is based on Qubes-Whonix.”
-               </a>
+                ”<a href="https://securedrop.org">SecureDrop</a>
+                Journalist Workstation
+                <a href="https://github.com/freedomofpress/securedrop-workstation">
+                environment for submission handling
+                is based on Qubes-Whonix.” It is used by
+                <a href="https://securedrop.org/directory/">many mass media organizations</a>
+                to securely accept documents from anonymous sources.
+                </a>
             </a>
         </div>
         <div class="third">
