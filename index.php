@@ -16,7 +16,7 @@ See the file COPYING for copying conditions.
     <meta name="twitter:creator" content="@Whonix" />
     <meta name="twitter:image" content="https://www.whonix.org/w/images/0/04/Whonix_Twitter_Social_Share.png" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.whonix.org/index.html"/>
+    <meta property="og:url" content="https://www.whonix.org"/>
     <meta property="og:title" content="Whonix" />
     <meta property="og:description" content="Anonymize Everything You Do Online" />
     <meta property="og:image" content="https://www.whonix.org/w/images/4/47/Whonix_Facebook_Social_Share.png" />
