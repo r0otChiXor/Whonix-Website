@@ -135,8 +135,7 @@ See the file COPYING for copying conditions.
                 rel="noopener">
                 <img src="https://www.whonix.org/w/images/7/75/The_Guardian_2018.svg" alt="The Guardian" />
             </a>
-            <a class="press-blurb"
-                href="https://www.theguardian.com/technology/2015/mar/06/tips-tricks-anonymous-privacy">
+            <a class="press-blurb" href="https://www.theguardian.com/technology/2015/mar/06/tips-tricks-anonymous-privacy" target="_blank" rel="noopener">
                 ”Whonix is about as anonymous as an OS can get before it all becomes
                 too inconvenient for normal use.”
             </a>
@@ -146,14 +145,12 @@ See the file COPYING for copying conditions.
                 rel="noopener">
                 <img src="https://www.whonix.org/w/images/1/14/The_Intercept_logo.svg" alt="The Intercept" />
             </a>
-            <a class="press-blurb"
-                href="https://theintercept.com/2015/09/16/getting-hacked-doesnt-bad/">
+            <a class="press-blurb" href="https://theintercept.com/2015/09/16/getting-hacked-doesnt-bad/" target="_blank" rel="noopener">
                 ”Whonix, an operating system you can run in a virtual machine to maximize your online anonymity; it’s ideal for maintaining a secret identity.”
             </a>
         </div>
         <div class="third">
-            <a href="https://www.techrepublic.com/blog/smb-technologist/whonix-adds-a-layer-of-anonymity-to-your-business-tasks/" target="_blank"
-                rel="noopener">
+            <a href="https://www.techrepublic.com/blog/smb-technologist/whonix-adds-a-layer-of-anonymity-to-your-business-tasks/" target="_blank" rel="noopener">
                 <img src="https://www.whonix.org/w/images/5/52/TechRepublic-ConvertImage.png" alt="The Intercept" />
             </a>
             <a class="press-blurb"
