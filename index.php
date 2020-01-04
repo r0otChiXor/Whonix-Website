@@ -48,7 +48,7 @@ See the file COPYING for copying conditions.
         <div class="section__detail grid">
             <div class="whole">
                 <div id="banner">
-                    <img src="https://www.whonix.org/w/images/c/cf/Whonix_banner.png" />
+                    <img src="https://www.whonix.org/w/images/c/cf/Whonix_banner.png" alt="Whonix" />
                 </div>
                 <h4>Anonymize Everything You Do Online</h4>
             </div>
@@ -205,7 +205,7 @@ See the file COPYING for copying conditions.
                     your IP address.
                 </p>
             </div>
-            <img class="app-display__image" src="https://www.whonix.org/w/images/thumb/1/11/Tor_browser_duckduckgo2.jpg/1277px-Tor_browser_duckduckgo2.jpg" />
+            <img class="app-display__image" src="https://www.whonix.org/w/images/thumb/1/11/Tor_browser_duckduckgo2.jpg/1277px-Tor_browser_duckduckgo2.jpg" alt="Tor Browser with duckduckgo" />
         </div>
     </section>
     <section id="showcase" style="background-image: url(https://www.whonix.org/w/images/b/bd/6C3FA495.jpg);">
@@ -214,16 +214,16 @@ See the file COPYING for copying conditions.
                 <h2>Applications are reviewed and pre-configured.</h2>
             </div>
             <ul id="showcase-grid">
-                <li class=""><a href="https://www.whonix.org/wiki/Tor_Browser" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/3a/Torbrowser_icon.png" />Tor Browser</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/OnionShare" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/d/de/Onionshare_logo.png" />Onionshare</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Encrypted_Email_with_Thunderbird_and_Enigmail" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/b/b1/Thunderbird256.png" />Thunderbird</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Passwords" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/5/51/KeePassXC.png" />KeePassXC</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/HexChat" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/7/7b/Hexchaticon.png" />HexChat</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Software#Media_Player" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/thumb/7/71/VLC_Icon_background_removed.jpg/128px-VLC_Icon_background_removed.jpg" />VLC</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Software#Terminal" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/c/c2/Utilities-terminal.png" />Terminal</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Electrum" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/6/63/Electrum-appimage.png" />Electrum</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Bitcoin" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/2/29/BC_Logo_.png" />Bitcoin</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Monero" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/0/05/Monero-symbol-1280.png" />Monero</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Tor_Browser" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/3a/Torbrowser_icon.png" alt="" />Tor Browser</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/OnionShare" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/d/de/Onionshare_logo.png" alt="" />OnionShare</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Encrypted_Email_with_Thunderbird_and_Enigmail" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/b/b1/Thunderbird256.png" alt="" />Thunderbird</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Passwords" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/5/51/KeePassXC.png" alt="" />KeePassXC</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/HexChat" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/7/7b/Hexchaticon.png" alt="" />HexChat</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Software#Media_Player" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/thumb/7/71/VLC_Icon_background_removed.jpg/128px-VLC_Icon_background_removed.jpg" alt="" />VLC</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Software#Terminal" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/c/c2/Utilities-terminal.png" alt="" />Terminal</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Electrum" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/6/63/Electrum-appimage.png" alt="" />Electrum</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Bitcoin" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/2/29/BC_Logo_.png" alt="" />Bitcoin</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Monero" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/0/05/Monero-symbol-1280.png" alt="" />Monero</a></li>
             </ul>
         </div>
     </section>
@@ -498,79 +498,79 @@ See the file COPYING for copying conditions.
             <div class="app-display__description">
                 <h2>Upcoming Security Enhancements</h2>
                 <h4>
-                    <img src="https://www.whonix.org/w/images/a/a7/P_lkrg2.png" />
+                    <img src="https://www.whonix.org/w/images/a/a7/P_lkrg2.png" alt="" />
                     <a href="https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG" target="_blank" rel="noopener">
                         Linux Kernel Runtime Guard (LKRG)
-                    </a></a>
-                </h4>
-                <h4>
-                    <img src="https://www.whonix.org/w/images/c/cb/Isn_cust-2.png" />
-                    <a href="https://github.com/Whonix/tirdad" target="_blank" rel="noopener">
-                        TCP ISN CPU Information Leak Protection - tirdad
-                    </a></a>
-                </h4>
-                <h4>
-                    <img src="https://www.whonix.org/w/images/c/cb/Isn_cust-2.png" />
-                    <a href="https://www.whonix.org/wiki/Security-misc#Console_Lockdown" target="_blank" rel="noopener">
-                        Console Lockdown
-                    </a></a>
-                </h4>
-                <h4>
-                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" />
-                    <a href="https://github.com/Whonix/apparmor-profile-everything" target="_blank" rel="noopener">
-                        Full system Mandatory Access Control (MAC) policy - "AppArmor for everything"</a>
                     </a>
                 </h4>
                 <h4>
-                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" />
+                    <img src="https://www.whonix.org/w/images/c/cb/Isn_cust-2.png" alt="" />
+                    <a href="https://github.com/Whonix/tirdad" target="_blank" rel="noopener">
+                        TCP ISN CPU Information Leak Protection - tirdad
+                    </a>
+                </h4>
+                <h4>
+                    <img src="https://www.whonix.org/w/images/c/cb/Isn_cust-2.png" alt="" />
+                    <a href="https://www.whonix.org/wiki/Security-misc#Console_Lockdown" target="_blank" rel="noopener">
+                        Console Lockdown
+                    </a>
+                </h4>
+                <h4>
+                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" alt="" />
+                    <a href="https://github.com/Whonix/apparmor-profile-everything" target="_blank" rel="noopener">
+                        Full system Mandatory Access Control (MAC) policy - "AppArmor for everything"
+                    </a>
+                </h4>
+                <h4>
+                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" alt="" />
                     <a href="https://forums.whonix.org/t/untrusted-root-does-it-make-sense-to-try-to-improve-security-by-restricting-root/7998" target="_blank" rel="noopener">
                         Untrusted Root User
                     </a>
                 </h4>
                 <h4>
-                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" />
+                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" alt="" />
                     <a href="https://forums.whonix.org/t/allow-loading-signed-kernel-modules-by-default-disallow-kernel-module-loading-by-default/7880" target="_blank" rel="noopener">
                         enforce kernel module software signature verification
                     </a>
                 </h4>
                 <h4>
-                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" />
+                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" alt="" />
                     <a href="https://www.whonix.org/wiki/Dev/VirusForget" target="_blank" rel="noopener">
                         deactivate malware after reboot from non-root compromise
                     </a>
                 </h4>
                 <h4>
-                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" />
+                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" alt="" />
                     <a href="https://github.com/Whonix/hardened-kernel" target="_blank" rel="noopener">
                         Hardened Linux Kernel
                     </a>
                 </h4>
                 <h4>
-                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" />
+                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" alt="" />
                     <a href="https://forums.whonix.org/t/use-codecrypt-to-sign-whonix-releases/7844/2" target="_blank" rel="noopener">
                         post-quantum cryptography resistant signing of releases
                     </a>
                 </h4>
                 <h4>
-                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" />
+                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" alt="" />
                     <a href="https://forums.whonix.org/t/re-mount-home-and-other-with-noexec-and-nosuid-among-other-useful-mount-options-for-better-security/7707" target="_blank" rel="noopener">
                         Mount Options Hardening
                     </a>
                 </h4>
                 <h4>
-                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" />
+                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" alt="" />
                     <a href="https://forums.whonix.org/t/disable-suid-binaries/7706" target="_blank" rel="noopener">
                         Disable SUID Binaries
                     </a>
                 </h4>
                 <h4>
-                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" />
+                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" alt="" />
                     <a href="https://forums.whonix.org/t/multiple-boot-modes-for-better-security-persistent-root-persistent-noroot-live-root-live-noroot/7708" target="_blank" rel="noopener">
                         multiple boot modes for better security: persistent user | live user | persistent admin
                     </a>
                 </h4>
                 <h4>
-                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" />
+                    <img src="https://www.whonix.org/w/images/d/da/Text_x_patch.png" alt="" />
                     <a href="https://www.whonix.org/wiki/Contribute" target="_blank" rel="noopener">
                         Help welcome!
                     </a>
@@ -584,13 +584,13 @@ See the file COPYING for copying conditions.
                 <h2>Compatibility</h2>
             </div>
             <ul id="showcase-grid">
-                <li class=""><a href="https://www.whonix.org/wiki/VirtualBox" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/thumb/d/d5/Virtualbox_logo.png/100px-Virtualbox_logo.png" />VirtualBox</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/KVM" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/thumb/b/bb/Kvm.png/150px-Kvm.png" />KVM</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Qubes" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/9/94/Qubes-logo-blue.png" />Qubes OS</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Debian" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/30/Debian.png" />Debian</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Ubuntu" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/b/be/Logo-ubuntusvg.png" />Ubuntu®</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/MacOS" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/36/Macos_by_ego_no_background.png" />macOS</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Windows_Quick_Start" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/e/ee/Windows_logo_-_2012.svg.png" />Windows</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/VirtualBox" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/thumb/d/d5/Virtualbox_logo.png/100px-Virtualbox_logo.png" alt="" />VirtualBox</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/KVM" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/thumb/b/bb/Kvm.png/150px-Kvm.png" alt="" />KVM</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Qubes" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/9/94/Qubes-logo-blue.png" alt="" />Qubes OS</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Debian" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/30/Debian.png" alt="" />Debian</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Ubuntu" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/b/be/Logo-ubuntusvg.png" alt="" />Ubuntu®</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/MacOS" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/36/Macos_by_ego_no_background.png" alt="" />macOS</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Windows_Quick_Start" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/e/ee/Windows_logo_-_2012.svg.png" alt="" />Windows</a></li>
             </ul>
         </div>
     </section>
