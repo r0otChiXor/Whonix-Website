@@ -19,16 +19,16 @@ See the file COPYING for copying conditions.
     <meta property="og:title" content="Whonix" />
     <meta property="og:description" content="Anonymize Everything You Do Online" />
     <meta property="og:image" content="https://www.whonix.org/w/images/4/47/Whonix_Facebook_Social_Share.png" />
-    <meta property="article:publisher" content="https://www.facebook.com/Whonix">
-    <meta property="author" content="https://www.facebook.com/Whonix">
-    <meta property="fb:admins" content="100007482551659">
+    <meta property="article:publisher" content="https://www.facebook.com/Whonix" />
+    <meta property="author" content="https://www.facebook.com/Whonix" />
+    <meta property="fb:admins" content="100007482551659" />
     <meta itemprop="name" content="Whonix" />
     <meta itemprop="description" content="Anonymize Everything You Do Online" />
     <meta itemprop="image" content="https://www.whonix.org/w/images/4/47/Whonix_Facebook_Social_Share.png" />
-    <title>Whonix - Anonymize Everything You Do Online</title>
     <link rel="shortcut icon" href="https://www.whonix.org/w/images/favicon.ico" />
     <link rel="stylesheet" type="text/css" media="all" href="home/main.css" />
     <link rel="stylesheet" type="text/css" media="all" href="home/home.css" />
+    <title>Whonix - Anonymize Everything You Do Online</title>
 </head>
 
 <body>
