@@ -589,8 +589,8 @@ See the file COPYING for copying conditions.
                 <li class=""><a href="https://www.whonix.org/wiki/VirtualBox" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/thumb/d/d5/Virtualbox_logo.png/100px-Virtualbox_logo.png" />VirtualBox</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/KVM" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/thumb/b/bb/Kvm.png/150px-Kvm.png" />KVM</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/Qubes" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/9/94/Qubes-logo-blue.png" />Qubes OS</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Debian" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/30/Debian.png" /></a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Ubuntu" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/b/be/Logo-ubuntusvg.png" /></a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Debian" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/30/Debian.png" />Debian</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Ubuntu" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/b/be/Logo-ubuntusvg.png" />Ubuntu®</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/MacOS" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/36/Macos_by_ego_no_background.png" />macOS</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/Windows_Quick_Start" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/e/ee/Windows_logo_-_2012.svg.png" />Windows</a></li>
             </ul>
