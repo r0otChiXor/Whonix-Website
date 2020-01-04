@@ -211,7 +211,7 @@ See the file COPYING for copying conditions.
                     your IP address.
                 </p>
             </div>
-            <img class="app-display__image" src="https://www.whonix.org/w/images/1/11/Tor_browser_duckduckgo2.jpg" />
+            <img class="app-display__image" src="https://www.whonix.org/w/images/thumb/1/11/Tor_browser_duckduckgo2.jpg/1277px-Tor_browser_duckduckgo2.jpg" />
         </div>
     </section>
     <section id="showcase" style="background-image: url(https://www.whonix.org/w/images/b/bd/6C3FA495.jpg);">
@@ -333,7 +333,7 @@ See the file COPYING for copying conditions.
             </div>
             <div class="third">
                 <a href="https://github.com/Whonix/security-misc" target="_blank" rel="noopener">
-                  <img src="https://www.whonix.org/w/images/thumb/d/d7/Franck-v-_E1PQXKUkMw-unsplash.jpg/705px-Franck-v-_E1PQXKUkMw-unsplash.jpg" alt="AppArmor" />
+                  <img src="https://www.whonix.org/w/images/thumb/d/d7/Franck-v-_E1PQXKUkMw-unsplash.jpg/361px-Franck-v-_E1PQXKUkMw-unsplash.jpg" alt="AppArmor" />
                 </a>
                 <h4>Protect Linux user accounts against brute force attacks</h4>
                 <p>
@@ -433,7 +433,7 @@ See the file COPYING for copying conditions.
                 </p>
             </div>
             <div class="third">
-                <img src="https://www.whonix.org/w/images/thumb/4/44/Bho78-4ycp0.jpg/705px-Bho78-4ycp0.jpg" alt="Fully Auditable" />
+                <img src="https://www.whonix.org/w/images/thumb/4/44/Bho78-4ycp0.jpg/362px-Bho78-4ycp0.jpg" alt="Fully Auditable" />
                 <h4>Fully auditable</h4>
                 <p>
                     You don’t have to trust our word that it respects and protects you.
