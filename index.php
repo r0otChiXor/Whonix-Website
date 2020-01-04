@@ -579,7 +579,7 @@ See the file COPYING for copying conditions.
         </div>
     </section>
     <section id="showcase" style="background-image: url(https://www.whonix.org/w/images/b/bd/6C3FA495.jpg);">
-        <div id="showcase-compatibility" class="active">
+        <div id="showcase-index" class="active">
             <div>
                 <h2>Compatibility</h2>
             </div>
