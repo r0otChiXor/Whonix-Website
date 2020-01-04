@@ -649,7 +649,7 @@ See the file COPYING for copying conditions.
                 <a href="https://www.nrk.no/varsle/">NRK (Norway's public broadcaster)</a>
                 </h4>
                 <h4>
-                <a href="https://www.nytimes.com/tips">The New York Times</a>,
+                <a href="https://www.nytimes.com/tips">The New York Times</a>
                 </h4>
                 <h4>
                 <a href="https://www.sueddeutsche.de/projekte/kontakt/#securedrop>CBC">Süddeutsche Zeitung</a>
@@ -658,7 +658,7 @@ See the file COPYING for copying conditions.
                 <a href="https://www.theguardian.com/securedrop">The Guardian</a>
                 </h4>
                 <h4>
-                <a href="https://theintercept.com/source">The Intercept</a>,
+                <a href="https://theintercept.com/source">The Intercept</a>
                 </h4>
                 <h4>
                 <a href="https://www.usatoday.com/newstips/securedrop.html">USA TODAY</a>
