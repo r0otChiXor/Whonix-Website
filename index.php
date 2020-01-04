@@ -115,7 +115,7 @@ See the file COPYING for copying conditions.
                 ”<a href="https://securedrop.org" target="_blank" rel="noopener">SecureDrop</a>
                 Journalist Workstation
                 <a href="https://github.com/freedomofpress/securedrop-workstation" target="_blank" rel="noopener">
-                environment for submission handling
+                environment for submission handling</a>
                 is based on Qubes-Whonix.” It is used by
                 <a href="https://securedrop.org/directory/" target="_blank" rel="noopener">many mass media organizations</a>
                 to securely accept documents from anonymous sources.
