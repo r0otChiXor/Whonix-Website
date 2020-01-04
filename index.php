@@ -7,7 +7,6 @@ See the file COPYING for copying conditions.
 
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
     <meta name="description" content="Anonymize Everything You Do Online" />
     <meta name="author" content="Whonix" />
