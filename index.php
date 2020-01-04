@@ -71,33 +71,33 @@ See the file COPYING for copying conditions.
             </div>
         </div>
         <div class="grid">
-            <a href="https://www.whonix.org/wiki/Windows_Quick_Start">
+            <a class="nofocuslink" href="https://www.whonix.org/wiki/Windows_Quick_Start">
                 <div class="third" id="win10">
                     <img src="https://www.whonix.org/w/images/e/ee/Windows_logo_-_2012.svg.png" alt="Download for Windows 10" />
                     <h4>Windows</h4>
                 </div>
             </a>
-            <a href="https://www.whonix.org/wiki/VirtualBox">
+            <a class="nofocuslink" href="https://www.whonix.org/wiki/VirtualBox">
                 <div class="third">
                     <img src="https://www.whonix.org/w/images/a/af/Tux.png" alt="Download for Linux" />
                     <h4>GNU/Linux</h4>
                     <p>Run it with VirtualBox</p>
                 </div>
             </a>
-            <a href="https://www.whonix.org/wiki/MacOS">
+            <a class="nofocuslink" href="https://www.whonix.org/wiki/MacOS">
                 <div class="third">
                     <img src="https://www.whonix.org/w/images/3/36/Macos_by_ego_no_background.png" alt="Download for Mac" />
                     <h4>macOS</h4>
                     <p>Run it with VirtualBox</p>
                 </div>
             </a>
-            <a href="https://www.whonix.org/wiki/Qubes">
+            <a class="nofocuslink" href="https://www.whonix.org/wiki/Qubes">
                 <div class="third">
                     <img src="https://www.whonix.org/w/images/9/94/Qubes-logo-blue.png" alt="Download for Qubes" />
                     <h4>Qubes</h4>
                 </div>
             </a>
-            <a href="https://www.whonix.org/wiki/KVM">
+            <a class="nofocuslink" href="https://www.whonix.org/wiki/KVM">
                 <div class="third">
                     <img src="https://www.whonix.org/w/images/thumb/b/bb/Kvm.png/150px-Kvm.png" alt="Download for KVM" />
                     <h4>KVM</h4>
