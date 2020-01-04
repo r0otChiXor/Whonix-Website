@@ -3,7 +3,7 @@ Copyright (C) 2019 - 2019 ENCRYPTED SUPPORT LP <adrelanos@riseup.net>
 See the file COPYING for copying conditions.
 -->
 <!DOCTYPE html>
-<html lang="en">
+<html itemscope itemtype="http://schema.org/WebPage" lang="en">
 
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
