@@ -201,12 +201,12 @@ See the file COPYING for copying conditions.
         <div class="app-display app-display--horizontal">
             <div class="app-display__description">
                 <h2>
-                    All activity in a virtual machine, all internet traffic through Tor
-                    <a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a>
+                    All activity in a virtual machine, all internet traffic through
+                    Tor<a class="nofocuslink" href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a>
                     network
                 </h2>
                 <p>
-                    Whonix is the best way to use Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a> and is strongest protection of
+                    Whonix is the best way to use Tor<a class="nofocuslink" href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a> and is strongest protection of
                     your IP address.
                 </p>
             </div>

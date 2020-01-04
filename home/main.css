@@ -18,7 +18,7 @@ body {
 *::after {
   box-sizing: inherit;
 }
-a {
+/*a {
   color: #08c;
   fill: #08c;
   text-decoration: none;
@@ -26,7 +26,17 @@ a {
 a:focus {
   outline: none;
   text-decoration: underline;
+}*/
+
+.nofocuslink {
+  color: #08c;
+  text-decoration: none;
 }
+.nofocuslink:visited {
+  color: #08c;
+  text-decoration: none;
+}
+
 h1 {
 /*  font-family: raleway;*/
   font-size: 3em;
