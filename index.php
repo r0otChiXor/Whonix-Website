@@ -111,13 +111,11 @@ See the file COPYING for copying conditions.
             <a href="https://freedom.press" target="_blank" rel="noopener">
                 <img src="https://www.whonix.org/w/images/c/ca/Fpf.svg" alt="Freedom of the Press" />
             </a>
-            <a href="https://github.com/freedomofpress/securedrop-workstation">
-                ”<a href="https://securedrop.org" target="_blank" rel="noopener">SecureDrop</a>
-                Journalist Workstation
-                <a href="https://github.com/freedomofpress/securedrop-workstation" target="_blank" rel="noopener">
-                environment for submission handling</a>
-                is based on Qubes-Whonix.”
-            </a>
+            ”<a href="https://securedrop.org" target="_blank" rel="noopener">SecureDrop</a>
+            Journalist Workstation
+            <a href="https://github.com/freedomofpress/securedrop-workstation" target="_blank" rel="noopener">
+            environment for submission handling</a>
+            is based on Qubes-Whonix.”
         </div>
         <div class="third">
             <a href="https://wired.com" target="_blank" rel="noopener">
