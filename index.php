@@ -117,10 +117,6 @@ See the file COPYING for copying conditions.
                 <a href="https://github.com/freedomofpress/securedrop-workstation" target="_blank" rel="noopener">
                 environment for submission handling</a>
                 is based on Qubes-Whonix.”
-                It is used by
-                <a href="https://securedrop.org/directory/" target="_blank" rel="noopener">many mass media organizations</a>
-                to securely accept documents from anonymous sources.
-                </a>
             </a>
         </div>
         <div class="third">
@@ -223,7 +219,7 @@ See the file COPYING for copying conditions.
                 <li class=""><a href="https://www.whonix.org/wiki/Tor_Browser" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/3a/Torbrowser_icon.png" />Tor Browser</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/OnionShare" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/d/de/Onionshare_logo.png" />Onionshare</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/Encrypted_Email_with_Thunderbird_and_Enigmail" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/b/b1/Thunderbird256.png" />Thunderbird</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Passwords" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/5/51/KeePassXC.png" />Keypass</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Passwords" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/5/51/KeePassXC.png" />KeePassXC</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/HexChat" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/7/7b/Hexchaticon.png" />HexChat</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/Software#Media_Player" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/thumb/7/71/VLC_Icon_background_removed.jpg/128px-VLC_Icon_background_removed.jpg" />VLC</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/Software#Terminal" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/c/c2/Utilities-terminal.png" />Terminal</a></li>
@@ -598,75 +594,6 @@ See the file COPYING for copying conditions.
                 <li class=""><a href="https://www.whonix.org/wiki/MacOS" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/36/Macos_by_ego_no_background.png" />macOS</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/Windows_Quick_Start" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/e/ee/Windows_logo_-_2012.svg.png" />Windows</a></li>
             </ul>
-        </div>
-    </section>
-    <section id="security" class="grey">
-        <div class="app-display app-display--overflow">
-            <img class="app-display__image" src="https://www.whonix.org/w/images/thumb/0/01/Korie-cull-YXdrb9qr8cs-unsplash.jpg/470px-Korie-cull-YXdrb9qr8cs-unsplash.jpg" alt="Stream Isolation" />
-            <div class="app-display__description">
-                <h2>Users of Whonix technology</h2>
-                <h4>
-                <a href="https://securedrop.org" target="_blank" rel="noopener">SecureDrop</a>
-                Journalist Workstation
-                <a href="https://github.com/freedomofpress/securedrop-workstation" target="_blank" rel="noopener">
-                environment for submission handling</a><br/>
-                Developed by
-                <a href="https://freedom.press" target="_blank" rel="noopener">Freedom of the Press Foundation</a>
-                is based on Qubes-Whonix.<br/>
-                It is used by
-                <a href="https://securedrop.org/directory/" target="_blank" rel="noopener">many mass media organizations</a>
-                to securely accept documents from anonymous sources.
-                </a>
-                </h4>
-                <h4>
-                <a href="https://www.abc.net.au/news/securedrop/">ABC (Australia's national broadcaster)</a>
-                </h4>
-                <h4>
-                <a href="https://www.aljazeera.com/tips/">Al Jazeera</a>
-                </h4>
-                <h4>
-                <a href="https://www.bloomberg.com/tips/">Bloomberg News</a>
-                </h4>
-                <h4>
-                <a href="https://www.buzzfeednews.com/contact">BuzzFeed</a>
-                </h4>
-                <h4>
-                <a href="https://www.cbc.ca/securedrop">CBC (Canada's Public Broadcaster)</a>
-                </h4>
-                <h4>
-                <a href="https://www.ft.com/securedrop/">Financial Times</a>
-                </h4>
-                <h4>
-                <a href="https://www.forbes.com/fdc/securedrop.html">Forbes</a>
-                </h4>
-                <h4>
-                <a href="https://img.huffingtonpost.com/securedrop">HuffPost</a>
-                </h4>
-                <h4>
-                <a href="https://www.nbcnews.com/securedrop">NBCNews</a>
-                </h4>
-                <h4>
-                <a href="https://www.nrk.no/varsle/">NRK (Norway's public broadcaster)</a>
-                </h4>
-                <h4>
-                <a href="https://www.nytimes.com/tips">The New York Times</a>
-                </h4>
-                <h4>
-                <a href="https://www.sueddeutsche.de/projekte/kontakt/#securedrop>CBC">Süddeutsche Zeitung</a>
-                </h4>
-                <h4>
-                <a href="https://www.theguardian.com/securedrop">The Guardian</a>
-                </h4>
-                <h4>
-                <a href="https://theintercept.com/source">The Intercept</a>
-                </h4>
-                <h4>
-                <a href="https://www.usatoday.com/newstips/securedrop.html">USA TODAY</a>
-                </h4>
-                <h4>
-                <a href="https://news.vice.com/securedrop/">VICE Media</a>
-                </h4>
-            </div>
         </div>
     </section>
     <footer>
