@@ -270,7 +270,7 @@ See the file COPYING for copying conditions.
                 </a>
                 <h4>Based on Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a></h4>
                 <p>
-                    Whonix ™ <a href="https://www.whonix.org/wiki/Whonix_and_Tor" target="_blank" rel="noopener">utilizes</a> Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a>, which provides an open and distributed relay network to defend against network surveillance.
+                    Whonix <a href="https://www.whonix.org/wiki/Whonix_and_Tor" target="_blank" rel="noopener">utilizes</a> Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a>, which provides an open and distributed relay network to defend against network surveillance.
                 </p>
             </div>
             <div class="third">
@@ -377,7 +377,7 @@ See the file COPYING for copying conditions.
             <div class="third">
                 <img src="https://www.whonix.org/w/images/c/cf/Shield.png" alt="Virus Protection" />
                 <h4>Virus Protection</h4>
-                <p>Additional Security Hardening measures and user education through Whonix ™ provide better protection from <a href="https://www.whonix.org/wiki/Malware" target="_blank" rel="noopener">viruses</a>.</p>
+                <p>Additional Security Hardening measures and user education through Whonix provide better protection from <a href="https://www.whonix.org/wiki/Malware" target="_blank" rel="noopener">viruses</a>.</p>
             </div>
             <div class="third">
                 <img src="https://www.whonix.org/w/images/5/52/Firewall-29940640.jpg" alt="Advanced Firewall" />
@@ -460,7 +460,7 @@ See the file COPYING for copying conditions.
                 <img src="https://www.whonix.org/w/images/3/30/Debian.png" alt="Debian" />
                 <h4>Based on Debian</h4>
                 <p>
-                  In oversimplified terms, Whonix ™ is just a collection of configuration files and scripts. Whonix ™ is not a stripped down version of Debian; anything possible in "vanilla" Debian GNU/Linux can be replicated in Whonix ™.
+                  In oversimplified terms, Whonix is just a collection of configuration files and scripts. Whonix is not a stripped down version of Debian; anything possible in "vanilla" Debian GNU/Linux can be replicated in Whonix.
                 </p>
             </div>
             <div class="third">
