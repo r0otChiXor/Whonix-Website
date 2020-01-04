@@ -63,7 +63,8 @@ See the file COPYING for copying conditions.
             <div class="two-thirds">
                 <h2>Download, Install, Run</h2>
                 <p>
-                    Whonix isn't a program like most of your applications. It's a full
+                    Whonix <a href="https://www.whonix.org/wiki/Whonix_Trademark_Policy" target="_blank" rel="noopener">™</a>
+                    isn't a program like most of your applications. It's a full
                     operating system that runs inside your current one. Select which
                     operating system your computer is running.
                 </p>
@@ -261,7 +262,7 @@ See the file COPYING for copying conditions.
                 <img src="https://www.whonix.org/w/images/5/52/Hardening-13423213.jpg" alt="Kicksecure" />
                 <h4>Based on Kicksecure ™</h4>
                 <p>
-                    Whonix ™ is based on <a href="https://www.whonix.org/wiki/Kicksecure" target="_blank" rel="noopener">Kicksecure</a> ™ which is a a security-hardened Linux distribution.
+                    Whonix <a href="https://www.whonix.org/wiki/Whonix_Trademark_Policy" target="_blank" rel="noopener">™</a> is based on <a href="https://www.whonix.org/wiki/Kicksecure" target="_blank" rel="noopener">Kicksecure</a> ™ which is a a security-hardened Linux distribution.
                 </p>
             </div>
             <div class="third">
@@ -461,6 +462,7 @@ See the file COPYING for copying conditions.
                 <h4>Based on Debian</h4>
                 <p>
                   In oversimplified terms, Whonix is just a collection of configuration files and scripts. Whonix is not a stripped down version of Debian; anything possible in "vanilla" Debian GNU/Linux can be replicated in Whonix.
+                  <a href="https://www.whonix.org/wiki/About" target="_blank" rel="noopener">About Whonix</a>
                 </p>
             </div>
             <div class="third">
@@ -597,7 +599,7 @@ See the file COPYING for copying conditions.
         </div>
     </section>
     <footer>
-Whonix ™ is produced independently from the Tor<a class="read-more" href="https://2019.www.torproject.org/docs/trademark-faq.html.en">®</a> anonymity software and carries no guarantee from <a class="read-more" href="https://www.torproject.org">The Tor Project</a> about quality, suitability or anything else.
+Whonix <a href="https://www.whonix.org/wiki/Whonix_Trademark_Policy" target="_blank" rel="noopener">™</a> is produced independently from the Tor<a class="read-more" href="https://2019.www.torproject.org/docs/trademark-faq.html.en">®</a> anonymity software and carries no guarantee from <a class="read-more" href="https://www.torproject.org">The Tor Project</a> about quality, suitability or anything else.
         <ul>
             <li id="footer-Imprint">
                 <a href="https://www.whonix.org/wiki/Imprint" title="Imprint">Imprint</a>
