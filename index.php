@@ -164,7 +164,7 @@ See the file COPYING for copying conditions.
                 applications anonymously.”
             </a>
             <p>The Tor
-            <a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a> Project
+            <a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">&reg;</a> Project
             </p>
         </div>
         <div class="third">
@@ -197,11 +197,11 @@ See the file COPYING for copying conditions.
             <div class="app-display__description">
                 <h2>
                     All activity in a virtual machine, all internet traffic through
-                    Tor<a class="nofocuslink" href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a>
+                    Tor<a class="nofocuslink" href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">&reg;</a>
                     network
                 </h2>
                 <p>
-                    Whonix is the best way to use Tor<a class="nofocuslink" href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a> and is strongest protection of
+                    Whonix is the best way to use Tor<a class="nofocuslink" href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">&reg;</a> and is strongest protection of
                     your IP address.
                 </p>
             </div>
@@ -240,9 +240,9 @@ See the file COPYING for copying conditions.
                 </a>
                 <h4>Impossible to leak IP address</h4>
                 <p>
-                    Connections are forced through Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a>. DNS leaks are impossible, and
+                    Connections are forced through Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">&reg;</a>. DNS leaks are impossible, and
                     even malware with root privileges cannot discover the user's real IP
-                    address. Leak tested through <a href="https://github.com/Whonix/corridor" title="Corridor">corridor</a> (Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a> traffic whitelisting gateway) and other <a href="https://www.whonix.org/wiki/Dev/Leak_Tests">leak tests</a>.
+                    address. Leak tested through <a href="https://github.com/Whonix/corridor" title="Corridor">corridor</a> (Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">&reg;</a> traffic whitelisting gateway) and other <a href="https://www.whonix.org/wiki/Dev/Leak_Tests">leak tests</a>.
                 </p>
             </div>
             <div class="third">
@@ -265,9 +265,9 @@ See the file COPYING for copying conditions.
                 <a href="https://www.whonix.org/w/images/1/1d/Htw2-tails.png" target="_blank" rel="noopener">
                   <img src="https://www.whonix.org/w/images/1/1d/Htw2-tails.png" alt="Tor" />
                 </a>
-                <h4>Based on Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a></h4>
+                <h4>Based on Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">&reg;</a></h4>
                 <p>
-                    Whonix <a href="https://www.whonix.org/wiki/Whonix_and_Tor" target="_blank" rel="noopener">utilizes</a> Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a>, which provides an open and distributed relay network to defend against network surveillance.
+                    Whonix <a href="https://www.whonix.org/wiki/Whonix_and_Tor" target="_blank" rel="noopener">utilizes</a> Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">&reg;</a>, which provides an open and distributed relay network to defend against network surveillance.
                 </p>
             </div>
             <div class="third">
@@ -304,7 +304,7 @@ See the file COPYING for copying conditions.
                 </a>
                 <h4>Stream Isolation</h4>
                 <p>
-                    Different applications are routed through different paths through the Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a> network.
+                    Different applications are routed through different paths through the Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">&reg;</a> network.
                 </p>
             </div>
             <div class="third">
@@ -379,13 +379,13 @@ See the file COPYING for copying conditions.
             <div class="third">
                 <img src="https://www.whonix.org/w/images/5/52/Firewall-29940640.jpg" alt="Advanced Firewall" />
                 <h4>Advanced Firewall</h4>
-                <p>Configured for anonymous Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a> use.</p>
+                <p>Configured for anonymous Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">&reg;</a> use.</p>
             </div>
             <div class="third">
                 <a href="https://www.whonix.org/w/images/b/b8/Tor_browser_youtube.jpeg" target="_blank" rel="noopener">
                   <img src="https://www.whonix.org/w/images/thumb/b/b8/Tor_browser_youtube.jpeg/470px-Tor_browser_youtube.jpeg" alt="YouTube" />
                 </a>
-                <h4>Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a> Browser</h4>
+                <h4>Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">&reg;</a> Browser</h4>
                 <p>Visit any website including modern websites such as YouTube.</p>
             </div>
             <div class="third">
@@ -588,14 +588,14 @@ See the file COPYING for copying conditions.
                 <li class=""><a href="https://www.whonix.org/wiki/KVM" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/thumb/b/bb/Kvm.png/150px-Kvm.png" alt="" />KVM</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/Qubes" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/9/94/Qubes-logo-blue.png" alt="" />Qubes OS</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/Debian" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/30/Debian.png" alt="" />Debian</a></li>
-                <li class=""><a href="https://www.whonix.org/wiki/Ubuntu" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/b/be/Logo-ubuntusvg.png" alt="" />Ubuntu®</a></li>
+                <li class=""><a href="https://www.whonix.org/wiki/Ubuntu" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/b/be/Logo-ubuntusvg.png" alt="" />Ubuntu&reg;</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/MacOS" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/3/36/Macos_by_ego_no_background.png" alt="" />macOS</a></li>
                 <li class=""><a href="https://www.whonix.org/wiki/Windows_Quick_Start" target="_blank" rel="noopener"><img src="https://www.whonix.org/w/images/e/ee/Windows_logo_-_2012.svg.png" alt="" />Windows</a></li>
             </ul>
         </div>
     </section>
     <footer>
-Whonix <a href="https://www.whonix.org/wiki/Whonix_Trademark_Policy" target="_blank" rel="noopener">™</a> is produced independently from the Tor<a class="read-more" href="https://2019.www.torproject.org/docs/trademark-faq.html.en">®</a> anonymity software and carries no guarantee from <a class="read-more" href="https://www.torproject.org">The Tor Project</a> about quality, suitability or anything else.
+Whonix <a href="https://www.whonix.org/wiki/Whonix_Trademark_Policy" target="_blank" rel="noopener">™</a> is produced independently from the Tor<a class="read-more" href="https://2019.www.torproject.org/docs/trademark-faq.html.en">&reg;</a> anonymity software and carries no guarantee from <a class="read-more" href="https://www.torproject.org">The Tor Project</a> about quality, suitability or anything else.
         <ul>
             <li id="footer-Imprint">
                 <a href="https://www.whonix.org/wiki/Imprint" title="Imprint">Imprint</a>
