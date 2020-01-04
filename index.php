@@ -192,7 +192,7 @@ See the file COPYING for copying conditions.
             </a>
             <a href="https://theintercept.com/2015/09/16/getting-hacked-doesnt-bad" target="_blank" rel="noopener">
                 “Whonix is great because you can be confident that everything you do
-                in the workstation VM is anonymously going through the Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a> network.”
+                in the workstation VM is anonymously going through the Tor network.”
             </a>
             <p>Micah Lee, journalist and security engineer</p>
         </div>
