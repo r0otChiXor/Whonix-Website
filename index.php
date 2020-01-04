@@ -401,7 +401,7 @@ See the file COPYING for copying conditions.
                 will create an encrypted swap file.</p>
             </div>
             <div class="third">
-                <img src="https://www.whonix.org/w/images/3/33/Web_server.png" alt="server" />
+                <img src="https://www.whonix.org/w/images/thumb/0/07/Computer_n_screen.png/200px-Computer_n_screen.png" alt="server" />
                 <h4>Hosting Location Hidden Servers</h4>
                 <p>Whonix is the safest way to <a href="https://www.whonix.org/wiki/Onion_Services" target="_blank" rel="noopener">Onion Services</a>
                 .</p>
@@ -424,7 +424,7 @@ See the file COPYING for copying conditions.
                 </p>
             </div>
             <div class="third">
-                <img src="https://www.whonix.org/w/images/thumb/a/a3/Jon-tyson-FlHdnPO6dlw-unsplash.jpg/470px-Jon-tyson-FlHdnPO6dlw-unsplash.jpg" alt="History" />
+                <img src="https://www.whonix.org/w/images/thumb/a/a3/Jon-tyson-FlHdnPO6dlw-unsplash.jpg/187px-Jon-tyson-FlHdnPO6dlw-unsplash.jpg" alt="History" />
                 <h4>History</h4>
                 <p>
                      An eight year <a href="https://www.whonix.org/wiki/History" target="_blank" rel="noopener">history</a>
