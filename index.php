@@ -112,12 +112,12 @@ See the file COPYING for copying conditions.
                 <img src="https://www.whonix.org/w/images/c/ca/Fpf.svg" alt="Freedom of the Press" />
             </a>
             <a href="https://github.com/freedomofpress/securedrop-workstation">
-                ”<a href="https://securedrop.org">SecureDrop</a>
+                ”<a href="https://securedrop.org" target="_blank" rel="noopener">SecureDrop</a>
                 Journalist Workstation
-                <a href="https://github.com/freedomofpress/securedrop-workstation">
+                <a href="https://github.com/freedomofpress/securedrop-workstation" target="_blank" rel="noopener">
                 environment for submission handling
                 is based on Qubes-Whonix.” It is used by
-                <a href="https://securedrop.org/directory/">many mass media organizations</a>
+                <a href="https://securedrop.org/directory/" target="_blank" rel="noopener">many mass media organizations</a>
                 to securely accept documents from anonymous sources.
                 </a>
             </a>
@@ -126,7 +126,7 @@ See the file COPYING for copying conditions.
             <a href="https://wired.com" target="_blank" rel="noopener">
                 <img src="https://www.whonix.org/w/images/e/e5/Wired.svg" alt="Wired" />
             </a>
-            <a href="https://www.wired.com/2014/06/be-anonymous-online">
+            <a href="https://www.wired.com/2014/06/be-anonymous-online" target="_blank" rel="noopener">
                 ”For the even more paranoid, there is a lesser-known Tor-enabled OS
                 called Whonix”
             </a>
@@ -168,7 +168,9 @@ See the file COPYING for copying conditions.
                 computing activities. Whonix helps users use their favorite desktop
                 applications anonymously.”
             </a>
-            <p>The Tor<a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a> Project</p>
+            <p>The Tor
+            <a href="https://2019.www.torproject.org/docs/trademark-faq.html.en" target="_blank" rel="noopener">®</a> Project
+            </p>
         </div>
         <div class="third">
             <a href="https://twitter.com/Snowden" target="_blank" rel="noopener">
