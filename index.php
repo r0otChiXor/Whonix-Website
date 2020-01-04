@@ -111,7 +111,7 @@ See the file COPYING for copying conditions.
             <a href="https://freedom.press" target="_blank" rel="noopener">
                 <img src="https://www.whonix.org/w/images/c/ca/Fpf.svg" alt="Freedom of the Press" />
             </a>
-            <a class="press-blurb" href="https://github.com/freedomofpress/securedrop-workstation">
+            <a href="https://github.com/freedomofpress/securedrop-workstation">
                 ”<a href="https://securedrop.org">SecureDrop</a>
                 Journalist Workstation
                 <a href="https://github.com/freedomofpress/securedrop-workstation">
@@ -126,7 +126,7 @@ See the file COPYING for copying conditions.
             <a href="https://wired.com" target="_blank" rel="noopener">
                 <img src="https://www.whonix.org/w/images/e/e5/Wired.svg" alt="Wired" />
             </a>
-            <a class="press-blurb" href="https://www.wired.com/2014/06/be-anonymous-online">
+            <a href="https://www.wired.com/2014/06/be-anonymous-online">
                 ”For the even more paranoid, there is a lesser-known Tor-enabled OS
                 called Whonix”
             </a>
@@ -136,7 +136,7 @@ See the file COPYING for copying conditions.
                 rel="noopener">
                 <img src="https://www.whonix.org/w/images/7/75/The_Guardian_2018.svg" alt="The Guardian" />
             </a>
-            <a class="press-blurb" href="https://www.theguardian.com/technology/2015/mar/06/tips-tricks-anonymous-privacy" target="_blank" rel="noopener">
+            <a href="https://www.theguardian.com/technology/2015/mar/06/tips-tricks-anonymous-privacy" target="_blank" rel="noopener">
                 ”Whonix is about as anonymous as an OS can get before it all becomes
                 too inconvenient for normal use.”
             </a>
@@ -146,7 +146,7 @@ See the file COPYING for copying conditions.
                 rel="noopener">
                 <img src="https://www.whonix.org/w/images/1/14/The_Intercept_logo.svg" alt="The Intercept" />
             </a>
-            <a class="press-blurb" href="https://theintercept.com/2015/09/16/getting-hacked-doesnt-bad/" target="_blank" rel="noopener">
+            <a href="https://theintercept.com/2015/09/16/getting-hacked-doesnt-bad/" target="_blank" rel="noopener">
                 ”Whonix, an operating system you can run in a virtual machine to maximize your online anonymity; it’s ideal for maintaining a secret identity.”
             </a>
         </div>
@@ -154,8 +154,7 @@ See the file COPYING for copying conditions.
             <a href="https://www.techrepublic.com/blog/smb-technologist/whonix-adds-a-layer-of-anonymity-to-your-business-tasks/" target="_blank" rel="noopener">
                 <img src="https://www.whonix.org/w/images/5/52/TechRepublic-ConvertImage.png" alt="The Intercept" />
             </a>
-            <a class="press-blurb"
-                href="https://www.techrepublic.com/blog/smb-technologist/whonix-adds-a-layer-of-anonymity-to-your-business-tasks/">
+            <a href="https://www.techrepublic.com/blog/smb-technologist/whonix-adds-a-layer-of-anonymity-to-your-business-tasks/">
                  ”Whonix adds a layer of anonymity to your business tasks.”
             </a>
         </div>
