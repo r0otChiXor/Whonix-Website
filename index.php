@@ -107,6 +107,7 @@ See the file COPYING for copying conditions.
     </section>
     <section class="grid" id="the-press">
         <div class="third">
+            <h2></h2>
             <a href="https://freedom.press" target="_blank" rel="noopener">
                 <img src="https://www.whonix.org/w/images/c/ca/Fpf.svg" alt="Freedom of the Press" />
             </a>
