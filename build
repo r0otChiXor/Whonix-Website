@@ -1,0 +1,10 @@
+#!/bin/bash
+
+set -x
+set -e
+
+mkdir -p ./minified
+
+minify ./index.html > ./minified/index.html
+minify ./main.css > ./minified/main.css
+minify ./home.css > ./minified/home.css
