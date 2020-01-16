@@ -118,50 +118,6 @@ a.third:hover {
 .warning {
   color: #fbc02d;
 }
-select {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-  background-color: transparent;
-  background-image: linear-gradient(
-    to bottom,
-    transparent,
-    transparent 50%,
-    rgba(0, 0, 0, 0.04)
-  );
-  border: 1px solid rgba(0, 0, 0, 0.2);
-  border-radius: 3px;
-  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.05),
-    inset 0 1px 0 0 rgba(255, 255, 255, 0.45),
-    inset 0 -1px 0 0 rgba(255, 255, 255, 0.15),
-    0 1px 0 0 rgba(255, 255, 255, 0.15);
-  color: #333;
-  cursor: pointer;
-  font-family: inherit;
-  font-size: 16px;
-  margin: 24px;
-  outline: 0;
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  text-shadow: 0 1px rgba(255, 255, 255, 0.4);
-  transition: all 0.1s ease-in;
-}
-select {
-  font-size: 13px;
-  padding: 8px;
-}
-select {
-  text-align: left;
-}
-select:focus {
-  border-color: rgba(61, 155, 218, 0.8);
-  transition: all 0.2s ease-in;
-}
-select:focus:invalid,
-select:invalid {
-  color: #c0392b !important;
-}
 .grey {
   background-color: #fafafa;
 }
