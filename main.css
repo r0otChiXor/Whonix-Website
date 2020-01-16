@@ -40,12 +40,6 @@ p {
 img {
   max-width: 100%;
 }
-img.h1 {
-  display: block;
-  height: 27px;
-  margin: 19px auto;
-  opacity: 0.8;
-}
 .read-more::after {
   color: inherit;
   content: "→";
