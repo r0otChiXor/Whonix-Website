@@ -103,18 +103,6 @@ body {
 .third p {
   text-align: center;
 }
-a.third {
-  color: inherit;
-}
-a.third:hover {
-  color: #08c;
-  fill: #08c;
-}
-.third .fa {
-  font-size: 32px;
-  text-align: center;
-  display: block;
-}
 @media print {
   footer,
   header,
