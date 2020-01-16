@@ -115,12 +115,6 @@ a.third:hover {
   text-align: center;
   display: block;
 }
-.warning {
-  color: #fbc02d;
-}
-.grey {
-  background-color: #fafafa;
-}
 @media print {
   footer,
   header,
