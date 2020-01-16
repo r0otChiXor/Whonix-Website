@@ -13,11 +13,6 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-*,
-::after,
-::before {
-  box-sizing: inherit;
-}
 .nofocuslink {
   color: #08c;
   text-decoration: none;
