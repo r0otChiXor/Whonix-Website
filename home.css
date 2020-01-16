@@ -110,9 +110,6 @@ img {
     display: none;
   }
 }
-header {
-
-}
 nav {
   font-size: 1em;
 
@@ -290,9 +287,6 @@ nav .logomark:focus .logomark-svg {
   top: 3%;
   transform: translateX(-50%);
   border-radius: 4px;
-}
-#callouts {
-  /* padding: 64px 1em; */
 }
 .app-display {
   -ms-flex-line-pack: center;
@@ -489,9 +483,6 @@ nav .logomark:focus .logomark-svg {
   background-color: #273445;
   color: white;
 }
-#tbb p {
-
-}
 .app-display__image {
   padding: 2em;
   max-width: 70%;
@@ -516,15 +507,8 @@ nav .logomark:focus .logomark-svg {
   margin-right: 0.25em;
   vertical-align: middle;
 }
-
 #download .third p {
   font-size: 0.8em;
-}
-footer {
-
-}
-footer ul {
-
 }
 footer li {
   float: left;
