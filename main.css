@@ -21,47 +21,17 @@ html {
   color: #08c;
   text-decoration: none;
 }
-h1 {
-  font-size: 3em;
-  font-weight: 100;
-  margin-bottom: 16px;
-  margin-top: 0;
-}
-h1 svg {
-  height: 45px;
-  max-width: 100%;
-  position: relative;
-  top: 11px;
-  width: 310px;
-}
-@media (min-width: 966px) {
-  h1 {
-    font-size: 48px;
-  }
-}
 h2 {
   font-size: 2em;
   font-weight: 300;
   margin: 0 0 16px;
   padding: 0;
 }
-h3 {
-  font-size: 1.5em;
-  font-weight: 600;
-  opacity: 0.8;
-}
 h4 {
   font-size: 1.25em;
   font-weight: 400;
   margin-bottom: 16px;
   margin-top: 16px;
-}
-h5 {
-  font-size: 1em;
-  font-weight: 600;
-  margin-bottom: 3px;
-  margin-top: 0;
-  text-align: left;
 }
 p {
   text-align: left;
