@@ -118,18 +118,6 @@ a.third:hover {
 .warning {
   color: #fbc02d;
 }
-.icon {
-  position: relative;
-  text-align: center;
-}
-@media (min-width: 444px) {
-  .icon {
-    position: absolute;
-  }
-  .icon-text {
-    padding-left: 88px;
-  }
-}
 select {
   -webkit-appearance: none;
   -moz-appearance: none;
