@@ -121,10 +121,6 @@ a.third:hover {
 .grey {
   background-color: #fafafa;
 }
-.docs img {
-  display: block;
-  margin: 0 auto;
-}
 @media print {
   footer,
   header,
