@@ -331,7 +331,7 @@ nav .logomark:focus .logomark-svg {
     padding: 0 0 0 64px;
   }
 }
-#applications, #compatibility {
+.applications, .compatibility {
   background-image: url(https://www.whonix.org/w/images/b/bd/6C3FA495.jpg);
 }
 .showcase {
@@ -422,14 +422,14 @@ nav .logomark:focus .logomark-svg {
   color: black;
 }
 
-#features img {
+.features img {
   border-radius: 2px;
   display: block;
   margin: 0 auto;
   position: relative;
   height: 10em;
 }
-#features img * {
+.features img * {
   bottom: 0;
   display: block;
   left: 0;
@@ -438,7 +438,7 @@ nav .logomark:focus .logomark-svg {
   top: 0;
 }
 
-#security {
+.security {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: center;
@@ -449,34 +449,34 @@ nav .logomark:focus .logomark-svg {
   background-color: #273445;
   color: white;
 }
-#security a {
+.security a {
   color: #8cd5ff;
 }
-#security img {
+.security img {
   max-height: 80vh;
 }
-#security .app-display__description h2,
-#security .app-display__description p {
+.security .app-display__description h2,
+.security .app-display__description p {
   text-align: left;
 }
-#security .app-display__description h4 {
+.security .app-display__description h4 {
   margin-top: 1em;
 }
-#security .app-display__description p {
+.security .app-display__description p {
   max-width: 30em;
 }
-#security .app-display__description h4 img {
+.security .app-display__description h4 img {
   vertical-align: middle;
   margin-right: 1em;
   max-height: 1.5em;
   max-width: 1.5em;
 }
-#security .app-display__description svg {
+.security .app-display__description svg {
   float: left;
   margin: 1em 0.5em 1em 0;
 }
 
-#tbb {
+.tbb {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: center;
