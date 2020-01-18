@@ -331,6 +331,9 @@ nav .logomark:focus .logomark-svg {
     padding: 0 0 0 64px;
   }
 }
+#applications, #compatibility {
+  background-image: url(https://www.whonix.org/w/images/b/bd/6C3FA495.jpg);
+}
 .showcase {
   display: block;
   max-width: none;
