@@ -331,64 +331,67 @@ nav .logomark:focus .logomark-svg {
     padding: 0 0 0 64px;
   }
 }
-#showcase {
+#applications, #compatibility {
+  background-image: url(https://www.whonix.org/w/images/b/bd/6C3FA495.jpg);
+}
+.showcase {
   display: block;
   max-width: none;
   overflow: hidden;
   padding: 0;
 }
-#showcase > div {
+.showcase > div {
   display: block;
   margin: auto;
   width: 100%;
   padding: 0 24px;
 }
-#showcase p {
+.showcase p {
   margin: auto;
   max-width: 600px;
 }
-#showcase #showcase-index {
+.showcase .showcase-index {
   padding: 48px 0;
 }
-#showcase #showcase-index > div {
+.showcase .showcase-index > div {
   padding: 0 28px;
   text-align: center;
 }
-#showcase #showcase-grid {
+.showcase .showcase-grid {
   list-style: none;
   margin: auto;
   max-width: 800px;
   padding: 0;
   text-align: center;
 }
-#showcase #showcase-grid li {
+.showcase .showcase-grid li {
   display: inline-block;
   margin: 16px;
   padding: 0;
 }
 @media (min-width: 320px) {
-  #showcase #showcase-grid li {
+  .showcase .showcase-grid li {
     margin: 26px;
   }
 }
 @media (min-width: 425px) {
-  #showcase #showcase-grid li {
+  .showcase .showcase-grid li {
     margin: 32px;
   }
 }
-#showcase #showcase-grid img {
+.showcase .showcase-grid img {
   display: block;
   width: 64px;
   margin: 12px;
 }
-#showcase #showcase-grid a {
+.showcase .showcase-grid a {
   color: inherit;
 }
-#showcase .showcase-tab .app-display {
+.showcase .showcase-tab .app-display {
   -ms-flex-direction: column;
   flex-direction: column;
 }
-#showcase .showcase-tab .app-display__description {
+.showcase .showcase-tab .app-display__description {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
@@ -397,23 +400,23 @@ nav .logomark:focus .logomark-svg {
   justify-content: center;
   padding: 0 0 16px;
 }
-#showcase .showcase-tab .app-display__description > * {
+.showcase .showcase-tab .app-display__description > * {
   padding: 8px;
   text-align: left;
 }
-#showcase .showcase-tab .app-display__description > img {
+.showcase .showcase-tab .app-display__description > img {
   height: 80px;
   width: 80px;
 }
 @media (min-width: 1000px) {
-  #showcase .showcase-tab .app-display__description {
+  .showcase .showcase-tab .app-display__description {
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
     padding-bottom: 0;
   }
 }
 
-#showcase {
+.showcase {
   background-position: top;
   background-size: cover;
   color: black;
