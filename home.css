@@ -37,6 +37,7 @@ p {
 }
 img {
   max-width: 100%;
+  height: auto;
 }
 
 input {
@@ -311,9 +312,12 @@ nav .logomark:focus .logomark-svg {
 }
 @media (min-width: 1000px) {
   .app-display__image {
-    -ms-flex-order: 2;
+/*    -ms-flex-order: 2;
     order: 2;
-    max-height: 80vh;
+    max-height: 80vh;*/
+    padding: 2em;
+    max-width: 70%;
+    height: auto;
   }
   .app-display.app-display--horizontal,
   .app-display.app-display--overflow {
